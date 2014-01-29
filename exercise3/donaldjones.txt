@@ -1,0 +1,4 @@
+
+C
+Hello, my name is Donald Jones.  I am taking a Git/GitHub class from rubylearning.org.  This is an exercise that demostrates the fork, clone, push, and pull processes.
+

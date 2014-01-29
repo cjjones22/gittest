@@ -1,0 +1,2 @@
+I'm a developer who loves to learn new things.
+Nowadays I am working with Groovy and Grails framework.

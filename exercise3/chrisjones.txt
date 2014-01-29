@@ -1,0 +1,2 @@
+My name is Chris Jones and I'm from Chicago, Illinois. It is freezing
+here! I am also currently enrolled in the Ruby Core course. 
